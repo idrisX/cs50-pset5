@@ -1,0 +1,10 @@
+0.  It is the longest word in the dictionary provided by the spec.
+1.  getrusage calculates the running time of a program
+2.  sixteen
+3.  We pass them by reference because these values would be too big and it is better to pass the pointer to these things.
+4. The program reads each character of the file one at a time. While doing so
+it checks to see if the character is valid and takes only those that are. This is particularly the case
+with concern to letters and apostrophes. 
+5.fscan alone would not be able to address symbols that are accepted by the spec.
+6.Because dictionary and entry, which are being received by these functions, are constants
+
